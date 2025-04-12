@@ -1,5 +1,5 @@
 <script>
-  const slackId = "U12345678"; // TODO: Replace with your actual Slack ID!
+  const slackId = "U020X4GCWSF"; // TODO: Replace with your actual Slack ID!
 </script>
 
 <div class="app-container">
